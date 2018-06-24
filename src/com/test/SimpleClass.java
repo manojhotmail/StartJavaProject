@@ -20,6 +20,7 @@ public class SimpleClass {
 		height = 9;
 		
 		System.out.println(width + height + depth);
+		System.out.println(width);
 	
 	}
 	
